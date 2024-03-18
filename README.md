@@ -6,7 +6,7 @@
 
 
 
-🌐💻🔒
+
 
 Welcome to the future of online browsing! 🚀 Introducing IdentitySphere: your ultimate digital shield against prying eyes and potential identity theft. 🛡️ With IdentitySphere, you can navigate the web with confidence, knowing that your personal information remains protected from unwanted snooping. 🕵️‍♂️ Say goodbye to constantly exposing your real identity online; with IdentitySphere, it's like browsing incognito mode on steroids! 💪 Safeguard your online self and browse freely without worrying about anyone creepin' on your data. 🛡️🔒
 
@@ -17,6 +17,7 @@ Welcome to the future of online browsing! 🚀 Introducing IdentitySphere: your 
 [![GitHub Stars](https://img.shields.io/github/stars/haydenbanz/IdentitySphere?style=for-the-badge)](https://github.com/haydenbanz/IdentitySphere/stargazers)
 ![Profile Views](https://komarev.com/ghpvc/?username=haydenbanz&color=%232A3E87&labelColor=%236A7DA8&style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge&logo=github)](CONTRIBUTING.md)
 
 
 
@@ -89,5 +90,5 @@ If you find this project helpful, consider buying us a coffee:
    
 
 
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 
